@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 export default () => (
   <footer className='footer'>
-    Este Bazaar não efetua vendas online e serve como catálogo para vendas físicas e/ou doações. <br /> Maiores informações, entre em contato comigo no telefone/whatsapp: <strong><a href='whatsapp://send?abid=+5581997384782&text=Contato%2C%20sobre%2C%20o%2C%20Bazar'>81997384782</a></strong>.
+    Este Bazaar não efetua vendas online e serve como catálogo para vendas físicas e/ou doações. <br /> Maiores informações, entre em contato comigo no telefone/whatsapp: <strong><a href='whatsapp://send?abid=+81555555555&text=Contato%2C%20sobre%2C%20o%2C%20Bazar'>81555555555</a></strong>.
 
     <style jsx>{`
       footer {

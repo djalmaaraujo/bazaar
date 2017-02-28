@@ -48,7 +48,7 @@ export default ({ children, title = 'BazaaR' }) => (
       <section className='container-fluid header'>
         <h1 className='header__title'>
           BazaaR
-          <div className='header__whatsapp'><FontAwesome name='whatsapp' /> 81997384782</div>
+          <div className='header__whatsapp'><FontAwesome name='whatsapp' /> 81555555555</div>
         </h1>
         <nav className='header__navigation'>
           <Link href='/products/moças'><a>moças</a></Link>
